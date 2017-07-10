@@ -1,0 +1,10 @@
+aiofiles
+aiohttp
+aiohttp-jinja2
+aiopg
+lxml
+psycopg2
+pytest-aiohttp
+SQLAlchemy
+trafaret
+trafaret-config
