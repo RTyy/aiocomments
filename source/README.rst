@@ -8,6 +8,7 @@ Requirements
 
 * Python3.6 (3.5)
     Python3.5 may crash the tests due to unordered dict responses from json.loads
+* PostgreSQL 9.4+
 
 * aiofiles
 * aiohttp
