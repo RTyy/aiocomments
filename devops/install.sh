@@ -9,4 +9,5 @@ psql -v ON_ERROR_STOP=1 --username postgres <<-EOSQL
 EOSQL
 
 cd source
+pip install -r requirements.txt
 ./run.py initdb
